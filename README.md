@@ -1,1 +1,1 @@
-# vi_subtitle
+# vi subtitle support
